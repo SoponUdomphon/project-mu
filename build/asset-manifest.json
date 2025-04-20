@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/deploy-mu-web/static/css/main.f5285a0a.css",
+    "main.js": "/deploy-mu-web/static/js/main.f7d74512.js",
+    "static/js/885.fce95ec1.chunk.js": "/deploy-mu-web/static/js/885.fce95ec1.chunk.js",
+    "static/js/453.df3fc30d.chunk.js": "/deploy-mu-web/static/js/453.df3fc30d.chunk.js",
+    "index.html": "/deploy-mu-web/index.html",
+    "main.f5285a0a.css.map": "/deploy-mu-web/static/css/main.f5285a0a.css.map",
+    "main.f7d74512.js.map": "/deploy-mu-web/static/js/main.f7d74512.js.map",
+    "885.fce95ec1.chunk.js.map": "/deploy-mu-web/static/js/885.fce95ec1.chunk.js.map",
+    "453.df3fc30d.chunk.js.map": "/deploy-mu-web/static/js/453.df3fc30d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5285a0a.css",
+    "static/js/main.f7d74512.js"
+  ]
+}
